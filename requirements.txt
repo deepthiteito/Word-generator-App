@@ -5,5 +5,3 @@ wordcloud
 matplotlib
 numpy
 pandas
-
-
